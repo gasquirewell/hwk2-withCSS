@@ -1,0 +1,46 @@
+body{
+    background-color:bisque;
+    font-family: 'Nanum Gothic Coding', monospace;
+}
+
+h1{
+    color: white;
+    background-color: blue;
+    text-transform: capitalize;
+    text-shadow: 3px 3px black;
+    font-size: 52px;
+    text-align: center;
+
+}
+
+h2{
+    color: crimson;
+    text-shadow: black;
+    font-size: 48px;
+}
+
+
+    p{
+
+        text-align:justify;
+        font-size: 18px;
+        width: 80%;
+    }
+
+.btn{
+    display:block;
+    background-color: crimson;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    width: 200px;
+    margin-bottom: 20px;
+    padding: 5px;
+}
+
+
+
+.capitalize-text{
+    text-transform: capitalize;
+}
